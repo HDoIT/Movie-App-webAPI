@@ -118,6 +118,7 @@ button:hover{
   background-color: rgb(82, 7, 26);
   color: #eee;
   transition: 1s;
+  cursor:pointer;
 }
 
 .movie-info span.green {
